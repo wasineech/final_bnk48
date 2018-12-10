@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">final_bnk48</string>
+
+    <string-array name="price">
+        <item>500</item>
+        <item>800</item>
+    </string-array>
+</resources>
